@@ -27,3 +27,4 @@ Launch.json 已经配置好。
 
 4、如果想执行动态内容，需要进入cgi-bin目录下在执行make 生成 add 和 addForm 可执行文件。
 
+#### lshIO相关源码可以在 https://github.com/lshdfp726/lshSocket 找到，也可以自己编译新的静态库
