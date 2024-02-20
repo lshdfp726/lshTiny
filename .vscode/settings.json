@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "netdb.h": "c",
+        "lshio.h": "c",
+        "__config": "c",
+        "unistd.h": "c",
+        "ostream": "c",
+        "stat.h": "c",
+        "signal.h": "c",
+        "errno.h": "c",
+        "mman.h": "c",
+        "cdefs.h": "c",
+        "_types.h": "c",
+        "fcntl.h": "c",
+        "lshdict.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
