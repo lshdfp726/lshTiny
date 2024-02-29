@@ -16,8 +16,8 @@ OBJS = $(SRCS:.c=.o)
 
 # all: server 
 
-$(LIBRARY): $(OBJS)
-	ar rcs $@ $(OBJS)
+# $(LIBRARY): $(OBJS)
+# 	ar rcs $@ $(OBJS)
 	
 lshDict: $(OBJS) 
 	$(CC) $(CFLAGS) -o lshDict $(OBJS)
